@@ -26,13 +26,16 @@ I'm a Polish full-stack developer and trader who enjoys reading and hiking. I sp
 
 ![Pieczasz's GitHub stats](https://github-readme-stats.vercel.app/api?username=pieczasz&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Pieczasz&theme=gruvbox&border_radius=4.5) -->
-
+![GitHub Streak](https://streak-stats.demolab.com?user=Pieczasz&theme=gruvbox&border_radius=4.5)
 #
 
 <details>
  <summary><h3>👨‍💻 Pieczasz's Coding Journey</h3></summary>
    I began my coding journey in IT school, initially focusing on network management, which led to two internships at a networking company. My strong foundation in networking has given me valuable technical knowledge. However, over time, I found my passion in web development. I love designing my own projects, which taps into my creative side and pushes me to build more. Starting with basic HTML, CSS, and JavaScript, I’ve since advanced to using React, Next.js, and React Native to develop fully functional websites and apps. I rely on Figma for design and Visual Studio Code for coding. I’m driven by problem-solving, which is one of my greatest strengths, and I also enjoy math. Alongside coding, I have a strong interest in trading, combining both technical and analytical pursuits. I’ve also started creating a newsletter on Substack. Although I don't have many views yet, I really enjoy the process of content creation and am committed to continuing this journey, regardless of the current reach.
+</details>
+
+</br>
 
 [website]: Here will be link
+</br>
 [substack]: https://bartekpiekarz.substack.com/
