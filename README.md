@@ -36,6 +36,6 @@ I'm a Polish full-stack developer and trader who enjoys reading and hiking. I sp
 
 </br>
 
-[website]: Here will be link
+[website]: https://piekarz.xyz/
 </br>
 [substack]: https://bartekpiekarz.substack.com/
