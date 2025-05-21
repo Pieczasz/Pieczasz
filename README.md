@@ -22,5 +22,6 @@ I'm a Polish full-stack developer and trader who enjoys reading and hiking. I sp
 
 ### Links
 
-[website]: (https://piekarz.xyz/)
-[linkedin]: (https://www.linkedin.com/in/bart%C5%82omiej-piekarz-274b49304/)
+- 🌐 [Website](https://piekarz.xyz/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/bart%C5%82omiej-piekarz-274b49304/)
+- 📺 [YouTube](https://www.youtube.com/@Pieczasz)
