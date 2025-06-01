@@ -2,7 +2,7 @@
 
 **`Productive teenager - Designer, Developer, Trader`**
 
-I'm a Polish full-stack developer and trader who enjoys reading and hiking. I specialize in coding websites in Next.js, trying to handle everything from the initial planning and design to solving real-world problems with code, with a focus on frontend development. I also share insights and experiences about coding through posts on my <a href="https://bartekpiekarz.substack.com/">Substack blog</a>, which also contains book summaries created by me, and much content productivity.
+I'm a Polish React developer who enjoys reading and hiking. I specialize in coding mobile apps in React Native, trying to handle everything from the initial planning and design to solving real-world problems with code, with a focus on frontend development.
 
 ### 🧰 Languages and Tools
 
