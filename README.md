@@ -1,7 +1,5 @@
 # 🏔 Pieczasz
 
-**`Productive teenager - Designer, Developer, Trader`**
-
 I'm a Polish React developer who enjoys reading and hiking. I specialize in coding mobile apps in React Native, trying to handle everything from the initial planning and design to solving real-world problems with code, with a focus on frontend development.
 
 ### 🧰 Languages and Tools
