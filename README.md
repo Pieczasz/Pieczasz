@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Bartek!</h1>
 <h3 align="center">A React Native 18 yo. Developer at <a href="https://thewidlarzgroup.com/">TheWidlarzGroup.</a> <br> react-native-video mainteiner & Open Source Enthusiast</h3>
 
-### 🧰 Languages and Tools
+<h3>🧰 Languages and Tools</h3>
 
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
