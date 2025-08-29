@@ -1,4 +1,3 @@
-# 🏔 Pieczasz
 <h1 align="center">Hi, I'm Bartek!</h1>
 <h3 align="center">A React Native 18 yo. Developer at <a href="https://thewidlarzgroup.com/">TheWidlarzGroup.</a> <br> react-native-video mainteiner & Open Source Enthusiast</h3>
 
