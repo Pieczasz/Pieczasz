@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bartek!</h1>
-<h3 align="center">A 19 yo. React Native Developer at <a href="https://thewidlarzgroup.com/">TheWidlarzGroup.</a> <br> react-native libraries maintainer & Open Source Enthusiast</h3>
+<h3 align="center">A 19 yo. CSE student at TU Delft</h3>
 
 <h3>🧰 Languages I'm Familar With</h3>
 
@@ -16,4 +16,3 @@
 
 - 🌐 [Website](https://pieczasz.github.io/portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/bartlomiej-piekarz-274b49304/)
-- 📺 [YouTube](https://www.youtube.com/@Pieczasz)
