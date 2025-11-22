@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Bartek!</h1>
 <h3 align="center">A 19 yo. CSE student at TU Delft</h3>
 
-<h3>🧰 Languages I'm Familar With</h3>
+<h3>🧰 Tools I'm Familar With</h3>
 
 <img align="left" alt="TailwindCSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
